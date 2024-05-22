@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GPNY
-- 👀 I’m interested in coding, aviation
+- 👀 I’m interested in coding and aviation
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: croissant
 - ⚡ Fun fact: I also like Roblox exploiting =)
