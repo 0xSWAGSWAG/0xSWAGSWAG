@@ -1,16 +1,12 @@
-# Hello 👋! 
+![Capture d'écran 2025-06-16 185919](https://github.com/user-attachments/assets/8c031bf1-a38a-45a8-bf17-ad951460ed65)
+_(Solaris GDI Trojan Horse, being showcased on [Enderman](https://www.youtube.com/@Endermanch)'s Youtube Channel)_
 
+# Hello!
 
-![Capture d'écran 2023-10-07 173348](https://github.com/GPNY/GPNY/assets/170540705/460037e0-6c1b-4f26-b2a2-62e831a9e34f)
-(Screenshot made in the Roblox game [Project Flight](https://www.roblox.com/games/6349094071))
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSWAGSWAG&layout=pie)
 
-## My repositories will mostly be coded in [Python](https://python.org) and [Lua](https://lua.org)
-
-- 👋 Hi, I’m @GPNY!
-- 👀 I’m interested in coding and aviation!
-- 🌱 I’m currently learning Python.
-- 😄 Pronouns: croissant (im french)
-- ⚡ Fun fact: I also like Roblox exploiting =)
+The viruses themselves will (most of the time) be coded in [Python](https://www.python.org/)\
+And the launchers for the viruses will be coded in [C-Sharp](https://dotnet.microsoft.com/languages/csharp)
 
 <!---
 GPNY/GPNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
