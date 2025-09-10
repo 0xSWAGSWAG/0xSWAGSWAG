@@ -5,8 +5,7 @@ _(Solaris GDI Trojan Horse, being showcased on [Enderman](https://www.youtube.co
 
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSWAGSWAG&layout=pie)
 
-The viruses themselves will (most of the time) be coded in [Python](https://www.python.org/)\
-And the launchers for the viruses will be coded in [C-Sharp](https://dotnet.microsoft.com/languages/csharp)
+I make scripts for Roblox executors.
 
 <!---
 GPNY/GPNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
